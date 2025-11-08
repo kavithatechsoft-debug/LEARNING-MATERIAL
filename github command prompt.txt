@@ -1,0 +1,31 @@
+C:\Users\SABARI>git config --global user.name "sabari1114atr-tech"
+
+C:\Users\SABARI>git config --global user.email "sabari1114atr@gmail.com"
+
+S C:\> cd Users                  
+PS C:\Users> cd Sabari
+PS C:\Users\Sabari> cd OneDrive
+PS C:\Users\Sabari\OneDrive> cd .\Desktop\
+PS C:\Users\Sabari\OneDrive\Desktop> cd .\Git-Sabari\
+PS C:\Users\Sabari\OneDrive\Desktop\Git-Sabari> git clone https://github.com/sabari1114atr-tech/Sabari.git
+Cloning into 'Sabari'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+PS C:\Users\Sabari\OneDrive\Desktop\Git-Sabari> 
+
+ git add Test2.txt
+
+git commit -m "Test2.txt file added"
+
+git push origin
+
+DELETE
+git add Test2.txt
+PS C:\Users\SABARI\OneDrive\Desktop\Git-Sabari\Sabari> git commit -m "deleted Test2.txt file"
+[main 0ab9190] deleted Test2.txt file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 Test2.txt
+PS C:\Users\SABARI\OneDrive\Desktop\Git-Sabari\Sabari> git push origin main
